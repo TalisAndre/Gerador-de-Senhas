@@ -9,7 +9,7 @@ A interface do Site é bem simples, usei flexbox para deixar o site responsivo, 
 ## Opções de Gerar Senhas:
 As opções de geração de senhas já são auto explicativas, de oque cada uma faz basca marcar a checkbox de como você quer que a senha seja gerada.
 
-<img src="/cT99fHoN2LAJ/4sLJY=OqB9#S.png"/>
+<img src="/cT99fHoN2LAJ/NRGbxa9Xo?xm.png"/>
 
 ## Botões:
 Após Selecionar as opções de gerar a senha, apertando em "Gerar Senha" logo abaixo no input text vai aparecer a sua senha, ao lado vai ter dois  botões o primeiro para copiar a senha e o outro para baixar o arquivo TXT com a senha salva.
